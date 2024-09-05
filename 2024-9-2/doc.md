@@ -1,3 +1,9 @@
+<!--
+	FileName : doc.md
+	By : yzx
+	MakeTime : 2024年9月5日 下午 08:10:02
+	Copyright (C) 2024-2025 openGames 
+-->
 # 2024年9月2日开发文档
 ## 1.框架
 网站开发可以分为三大部分,分别是
